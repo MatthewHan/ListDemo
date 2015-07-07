@@ -3,3 +3,4 @@ var BSTNode = function(val){
   var right = null;
   var left = null;
 }
+potato potato - m
